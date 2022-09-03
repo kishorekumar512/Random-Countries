@@ -1,0 +1,20 @@
+* {
+  margin: 0%;
+  width: 100%;
+}
+
+.App {
+  background-color: rgb(248, 234, 209);
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.box-center {
+  background-color: white;
+  margin: 20px;
+}
